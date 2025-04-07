@@ -2,8 +2,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=200&section=header&text=Hi,%20I'm%20Harsh%20Vardhan%20Som!&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="banner"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=0D6EFD&center=true&vCenter=true&width=435&lines=Python+Developer;         Automation+%7C+Web+Dev+%7C+Prompt+Engineer;Flask+%7C+Selenium+%7C+PostgreSQL" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Python Coding GIF">
 </p>
+
+<h3 align="center">I build cool things with Python, Flask & Selenium</h3>
+
+
 
 ---
 
