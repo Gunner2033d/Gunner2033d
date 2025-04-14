@@ -46,7 +46,7 @@ class HarshVardhanSom:
 
 | Project | Description |
 |--------|-------------|
-| 🔁 [Auto Job Apply Bot](https://github.com/yourusername/job-bot) | Selenium bot to automate job applications on LinkedIn |
+| 🔁 [Auto Job Apply Bot](https://github.com/Gunner2033d/Automated_Job_Apply_on_LinkedIn) | Selenium bot to automate job applications on LinkedIn |
 | 📈 [Crypto Trading Bot](https://github.com/yourusername/crypto-trader) | Automates buying/selling crypto using market signals |
 | 💼 [Job Application Tracker](https://github.com/yourusername/job-tracker) | Flask + PostgreSQL app to manage job applications |
 | 💰 [Personal Finance Tracker](https://github.com/yourusername/finance-tracker) | Simple expense/income tracker with visualization |
