@@ -52,17 +52,6 @@ class HarshVardhanSom:
 | 💰 [Personal Finance Tracker](https://github.com/yourusername/finance-tracker) | Simple expense/income tracker with visualization |
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshVardhanSom&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshVardhanSom&layout=compact&theme=tokyonight)
-
-</div>
-
 ---
 
 ## 🌐 Connect With Me
