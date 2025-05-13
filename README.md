@@ -51,7 +51,6 @@ class HarshVardhanSom:
 | 💼 [Personal Portfolio Website](https://my-portfolio-website-sovx.onrender.com) | Built with Flask,Bootstrap and AI |
 
 ---
----
 
 ## 🌐 Connect With Me
 
