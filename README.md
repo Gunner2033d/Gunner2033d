@@ -49,6 +49,7 @@ class HarshVardhanSom:
 | 🔁 [Auto Job Apply Bot](https://github.com/Gunner2033d/Automated_Job_Apply_on_LinkedIn) | Selenium bot to automate job applications on LinkedIn |
 | 📈 [Automated Tinder Swiping Bot](https://github.com/Gunner2033d/Automated_tinder_swiping_bot) | Automates Tinder swiping using Selenium and Python. |
 | 💼 [Personal Portfolio Website](https://my-portfolio-website-18ls.onrender.com/) | Built with Flask,Bootstrap and AI |
+| 💲 [Binance Futures Trading Bot](https://github.com/Gunner2033d/harsh-binance-bot) | Python-based Trading bot with API integration, validation, and automation. |
 
 ---
 
